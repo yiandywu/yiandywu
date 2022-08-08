@@ -2,7 +2,7 @@
 - 👀 I’m interested in GIT
 - 🌱 I’m currently learning GIT
 - 💞️ I’m looking to collaborate on GITHUB
-- 📫 How to reach me: HERE
+- 📫 How to reach me: yiandy.wu@intel.com
 
 <!---
 yiandywu/yiandywu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
